@@ -1,0 +1,11 @@
+.head2{
+    border: 4px;
+    background-color: cornflowerblue;
+    color:darkgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.para2{
+    background-color: orangered;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
